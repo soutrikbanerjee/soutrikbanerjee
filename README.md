@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soutrikbanerjee
-- 👀 I’m interested in Sas, Stata, R, Python, Matlab, Mathematica, ...
+- 👀 I’m interested in Sas, Stata, R, Python, Matlab, Mathematica, SQL, ...
 - 🌱 I’m currently learning Julia
 
 <!---
