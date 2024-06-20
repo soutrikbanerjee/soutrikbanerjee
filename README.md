@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soutrikbanerjee
-- 👀 I’m interested in Sas, Stata, R, Python, Matlab, Mathematica, SQL, ...
-- 🌱 I’m currently learning Julia
+- 👀 I’m interested coding with `Sas, Stata, R, Python, Matlab, Mathematica, SQL, ...`
+- 🌱 I’m currently learning `Julia`
 
 <!---
 soutrikbanerjee/soutrikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
