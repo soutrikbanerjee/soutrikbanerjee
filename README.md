@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @soutrikbanerjee
-- 👀 I’m interested coding with `Stata, Sas, R, Python, Matlab, Mathematica, SQL, MLwiN, BUGS, ...`
-- 👀 The open-source IDE's I prefer `VSCode, RStudio (Posit), Jupyter, ...`
+- 👀 I’m interested coding with `Stata, Sas, R, Python, Matlab, Mathematica, SQL, MLwiN, BUGS, ...`.
+- 👀 The open-source IDE's I prefer `VSCode, RStudio (Posit), Jupyter, ...`.
 - 🌱 I’m currently learning `Julia`, which is both an OOP & functional, line-interpreted & compiled language that has similarities in syntaxes with `R, Python, Scala, Matlab` among others. It is supposed to be very fast (`C`), with the ease of `Python`, & has the scientific prowess of `R`.
-- 👀 The GUI-based Statistical package that I love the most is `Statistica`.
+- 👀 The GUI-based statistical packages that I like are `Statistica, JMP`.
+- 👀 Some other machine learning open-source software are `Weka, Knime, Orange, Rapidminer`.
+- 👀 Some GIS tools are `ArcGIS, SaTScan`.
 
 <!---
 soutrikbanerjee/soutrikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
