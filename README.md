@@ -5,6 +5,8 @@
 - 👀 The GUI-based statistical packages that I like are `Statistica, JMP`.
 - 👀 Some other machine learning open-source software are `Weka, Knime, Orange, Rapidminer`.
 - 👀 Some GIS tools are `ArcGIS, SaTScan`.
+- 👀 A popular Agent-based Modelling language is `NetLogo`.
+- 👀 Some data wrangling apps are `Tableau, Power BI`.
 
 <!---
 soutrikbanerjee/soutrikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
