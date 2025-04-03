@@ -1,6 +1,0 @@
-[deps]
-BoxCox = "1248164d-f7a6-4bdb-8e8d-8c4a187b3ce6"
-CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
-Effects = "8f03c58b-bd97-4933-a826-f71b64d2cca2"
-Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
-StandardizedPredictors = "5064a6a7-f8c2-40e2-8bdc-797ec6f1ae18"
