@@ -8,8 +8,3 @@
 - 👀 Some GIS tools are `ArcGIS, SaTScan`.
 - 👀 A popular Agent-based Modelling language is `NetLogo`.
 - 👀 Some data wrangling apps are `Tableau, Power BI`.
-
-<!---
-soutrikbanerjee/soutrikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
